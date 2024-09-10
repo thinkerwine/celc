@@ -6,3 +6,8 @@ h2 {text-align: center;}
 .rick {text-align: center;
 width: 50%;
 }
+header {
+    border-bottom: 2px rgb(71, 18, 128);
+    padding: 20px;
+    font-size: 32px;
+}
