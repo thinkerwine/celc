@@ -4,10 +4,10 @@ p {color: rgb(109, 0, 0);}
 h1 {text-align: center;}
 h2 {text-align: center;}
 .rick {text-align: center;
-width: 60%;
+width: 40%;
 }
 header {
     border-bottom: solid 3px rgb(71, 18, 128);
-    padding: 0px;
-    font-size: 15px;
+    padding: 30px;
+    font-size: 20px;
 }
