@@ -1,6 +1,7 @@
 body {background-color: rgb(241, 148, 161);}
 p {color: rgb(109, 0, 0) ;
-    font-size: 16px}
+    font-size: 25px;
+    margin-left: 20px;}
 .pizza {font-style: italic;}
 h1 {text-align: center;}
 h2 {text-align: center;}
