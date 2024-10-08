@@ -19,8 +19,8 @@ header {
     display: flex;
     justify-content: center;
 }
-.sarabun-extralight {
+.sarabun-extrabold-italic {
     font-family: "Sarabun", sans-serif;
-    font-weight: 200;
-    font-style: normal;
-  }
+    font-weight: 800;
+    font-style: italic;
+  }  
