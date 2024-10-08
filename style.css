@@ -1,19 +1,23 @@
-body {background-color: rgb(241, 148, 161);}
-p {color: rgb(109, 0, 0) ;
+body {background-color: rgb(197, 34, 51);}
+p {color: rgb(141, 23, 39) ;
     font-size: 25px;
     margin-left: 20px;}
 .pizza {font-style: italic;}
 h1 {
+    color: rgb(88, 12, 31);
     text-align: center;
 }
-h2 {text-align: center;}
+h2 {
+    text-align: center;
+    color: rgb(116, 18, 29);
+}
 .rick {text-align: center;
 width: 40%;
 }
 .hotdog {margin-right: 15px;}
 .pastel {margin-right: 15px;}
 header {
-    border-bottom: solid 3px rgb(71, 18, 128);
+    border-bottom: solid 3px rgb(88, 12, 31);
     padding: 25px;
     font-size: 32px;
     display: flex;
